@@ -1,0 +1,11 @@
+.pointer {
+    cursor: pointer;
+}
+
+
+.fixed {
+    overflow:scroll;
+    height: 500px;
+    width: 100%;
+}
+
